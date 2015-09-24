@@ -37,6 +37,4 @@ defmodule Portal.Door do
     end)
   end
 
-
-
 end
